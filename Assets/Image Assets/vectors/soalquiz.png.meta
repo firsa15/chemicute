@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 79dd7a0bcd7eff543b91c4565dd0f7e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soalquiz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 907
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182ecc05e7c3db4886ffc4ce23c0bb3
+      internalID: -1379361208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_7
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 978
+        width: 942
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025c0c966d952640a09f11b6af248b6
+      internalID: 177609431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 631
+        width: 896
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e926313932eac0449c3469100e07627
+      internalID: -208087915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_101
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 624
+        width: 1000
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ed477a82d62244f8284b547565e7fe
+      internalID: -2102200512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_108
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 354
+        width: 859
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932dd026b512043429147be077a549cc
+      internalID: 1924112211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_130
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 308
+        width: 955
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762fcc9bf520fde4c9b84cf536c81b67
+      internalID: 935831307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_154
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 926
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832574c212f43734d800c137dc04e47e
+      internalID: -753924795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soalquiz_160
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 0
+        width: 867
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71370850e55a4f4cb8ded28a7149cc2
+      internalID: -272907398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f94c452120a41848a4ca4c08e0bd8df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      soalquiz_0: -1379361208
+      soalquiz_1: 512932628
+      soalquiz_10: -1952763230
+      soalquiz_100: 1259605370
+      soalquiz_101: -2102200512
+      soalquiz_102: 63353547
+      soalquiz_103: 1487106597
+      soalquiz_104: -4140308
+      soalquiz_105: -470245821
+      soalquiz_106: -1059611933
+      soalquiz_107: -1498604927
+      soalquiz_108: 1924112211
+      soalquiz_109: -2073957758
+      soalquiz_11: -1243311644
+      soalquiz_110: 1025447094
+      soalquiz_111: -1938012598
+      soalquiz_112: -1634427843
+      soalquiz_113: -2126254322
+      soalquiz_114: 759328547
+      soalquiz_115: -118962947
+      soalquiz_116: -113694789
+      soalquiz_117: 1655807298
+      soalquiz_118: 771018916
+      soalquiz_119: -1216165568
+      soalquiz_12: -40150425
+      soalquiz_120: -57596031
+      soalquiz_121: -61352805
+      soalquiz_122: -172789946
+      soalquiz_123: 180433605
+      soalquiz_124: -863776568
+      soalquiz_125: 1187671023
+      soalquiz_126: -2127122739
+      soalquiz_127: 1209656038
+      soalquiz_128: 984492259
+      soalquiz_129: 39566599
+      soalquiz_13: 521648410
+      soalquiz_130: 935831307
+      soalquiz_131: 1156228293
+      soalquiz_132: -1401055340
+      soalquiz_133: -2040635695
+      soalquiz_134: 343015443
+      soalquiz_135: -1649697249
+      soalquiz_136: 890725767
+      soalquiz_137: 510515807
+      soalquiz_138: -1218951855
+      soalquiz_139: -1844805293
+      soalquiz_14: -625574117
+      soalquiz_140: -743909805
+      soalquiz_141: 252454673
+      soalquiz_142: -215272654
+      soalquiz_143: 370451497
+      soalquiz_144: -740240606
+      soalquiz_145: 1287935275
+      soalquiz_146: 1433847766
+      soalquiz_147: 2071302482
+      soalquiz_148: 1865681156
+      soalquiz_149: -1530747315
+      soalquiz_15: 576429142
+      soalquiz_150: 1051785676
+      soalquiz_151: -1468828566
+      soalquiz_152: 238735298
+      soalquiz_153: 2077269578
+      soalquiz_154: -753924795
+      soalquiz_155: 128303341
+      soalquiz_156: 837915336
+      soalquiz_157: 2019738489
+      soalquiz_158: 632985058
+      soalquiz_159: 1318276151
+      soalquiz_16: -1324791469
+      soalquiz_160: -272907398
+      soalquiz_161: 860293448
+      soalquiz_162: 1961870438
+      soalquiz_163: 1140035996
+      soalquiz_164: 1114075689
+      soalquiz_165: -1317823115
+      soalquiz_166: 901517323
+      soalquiz_167: 504602885
+      soalquiz_168: -1591370390
+      soalquiz_169: 1670091641
+      soalquiz_17: 1236380024
+      soalquiz_170: 2099440089
+      soalquiz_171: -258764715
+      soalquiz_172: -43341642
+      soalquiz_173: -1225924907
+      soalquiz_174: -116570298
+      soalquiz_175: 642245245
+      soalquiz_176: -1388850582
+      soalquiz_177: -1379715583
+      soalquiz_178: -263608704
+      soalquiz_179: -1870576540
+      soalquiz_18: -690451941
+      soalquiz_180: 678569410
+      soalquiz_181: 2032253867
+      soalquiz_182: -271310814
+      soalquiz_183: -337241555
+      soalquiz_184: -1727553098
+      soalquiz_185: 1480101779
+      soalquiz_186: -663515502
+      soalquiz_187: -1480315886
+      soalquiz_188: 254515920
+      soalquiz_189: 264854318
+      soalquiz_19: 2064817963
+      soalquiz_190: -2133294322
+      soalquiz_191: 187092584
+      soalquiz_192: -1761336015
+      soalquiz_193: 840535812
+      soalquiz_194: -479190549
+      soalquiz_195: -1562248370
+      soalquiz_196: 169013633
+      soalquiz_197: 1304869859
+      soalquiz_198: -173309719
+      soalquiz_199: -311157839
+      soalquiz_2: 2068660238
+      soalquiz_20: 128321460
+      soalquiz_200: 1247483260
+      soalquiz_201: -921299332
+      soalquiz_202: 1068381474
+      soalquiz_21: -447370166
+      soalquiz_22: -1471464368
+      soalquiz_23: -1892947595
+      soalquiz_24: 2032272145
+      soalquiz_25: -21465981
+      soalquiz_26: -1572108045
+      soalquiz_27: 1479168769
+      soalquiz_28: 1882177180
+      soalquiz_29: 1715841558
+      soalquiz_3: 510040881
+      soalquiz_30: 1723655647
+      soalquiz_31: 1810107517
+      soalquiz_32: 1295185166
+      soalquiz_33: 206947469
+      soalquiz_34: 554690125
+      soalquiz_35: -44197045
+      soalquiz_36: 503115221
+      soalquiz_37: -1315198508
+      soalquiz_38: -1367847756
+      soalquiz_39: 959320281
+      soalquiz_4: 531537420
+      soalquiz_40: -276724987
+      soalquiz_41: 2055286147
+      soalquiz_42: 340879402
+      soalquiz_43: -382608624
+      soalquiz_44: 1038004568
+      soalquiz_45: 950530305
+      soalquiz_46: -1560858016
+      soalquiz_47: -2008986702
+      soalquiz_48: 9432186
+      soalquiz_49: 262750464
+      soalquiz_5: -2006358294
+      soalquiz_50: -619615731
+      soalquiz_51: -2139572703
+      soalquiz_52: 1415532593
+      soalquiz_53: 1644273595
+      soalquiz_54: 438181641
+      soalquiz_55: -1807971046
+      soalquiz_56: -208087915
+      soalquiz_57: 1767315395
+      soalquiz_58: -1816745337
+      soalquiz_59: 1717447539
+      soalquiz_6: 1762482910
+      soalquiz_60: -1858911712
+      soalquiz_61: -1963755751
+      soalquiz_62: -1336087381
+      soalquiz_63: -1837767730
+      soalquiz_64: 1226572294
+      soalquiz_65: -1900418095
+      soalquiz_66: -272873798
+      soalquiz_67: 1843826413
+      soalquiz_68: 555641936
+      soalquiz_69: 1042038863
+      soalquiz_7: 177609431
+      soalquiz_70: 1311180238
+      soalquiz_71: -335876220
+      soalquiz_72: -684943567
+      soalquiz_73: 284717088
+      soalquiz_74: 1319384541
+      soalquiz_75: -1979566711
+      soalquiz_76: 1721952996
+      soalquiz_77: 556128210
+      soalquiz_78: 392771170
+      soalquiz_79: 1692115049
+      soalquiz_8: -39977652
+      soalquiz_80: 104191822
+      soalquiz_81: -1868211495
+      soalquiz_82: -468127080
+      soalquiz_83: -1380124221
+      soalquiz_84: -896652064
+      soalquiz_85: -1648239518
+      soalquiz_86: 61586871
+      soalquiz_87: -835671341
+      soalquiz_88: 831510821
+      soalquiz_89: 1960512390
+      soalquiz_9: -1807478222
+      soalquiz_90: 2017555882
+      soalquiz_91: 188868020
+      soalquiz_92: 86930137
+      soalquiz_93: -1243369304
+      soalquiz_94: 1082670874
+      soalquiz_95: 1410687213
+      soalquiz_96: -1519739027
+      soalquiz_97: 609688565
+      soalquiz_98: 1886121692
+      soalquiz_99: 1378437137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

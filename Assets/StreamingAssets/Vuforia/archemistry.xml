@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="nitrogen" size="1.000000 1.590909" />
+    <ImageTarget name="trinitrogen" size="1.000000 1.590909" />
+    <ImageTarget name="iodine" size="1.000000 1.590909" />
+    <ImageTarget name="chlorine" size="1.000000 1.590909" />
+    <ImageTarget name="bromide" size="1.000000 1.590909" />
+    <ImageTarget name="fluorine" size="1.000000 1.590909" />
+    <ImageTarget name="sulfur" size="1.000000 1.590909" />
+    <ImageTarget name="dihydrogen" size="1.000000 1.590909" />
+    <ImageTarget name="hydrogen" size="1.000000 1.590909" />
+    <ImageTarget name="triatomic_hydrogen" size="1.000000 1.590909" />
+  </Tracking>
+</QCARConfig>
